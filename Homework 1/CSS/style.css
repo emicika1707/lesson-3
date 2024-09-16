@@ -1,0 +1,33 @@
+.nav {
+    border: 200px #2f2fbe;
+    height: 200px;
+    width: 200 px; 
+    background: red;
+
+}
+.link {
+    border: 200px rgb(78, 78, 102);
+    height: 50px;
+    width: 200 px; 
+    background: rgb(43, 255, 0);
+    margin: black 50px;
+}
+html, body {
+    margin:  10px;
+    padding : 10px;
+}
+.link {
+    border: 200px rgb(102, 78, 82);
+    height: 50px;
+    width: 200 px; 
+    background: rgb(46, 51, 45);
+    margin: black 50px;
+
+html, body {
+
+    margin:  10px;
+    padding : 10px;
+
+}
+    
+
